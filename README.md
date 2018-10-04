@@ -1,6 +1,3 @@
-# swagbot
-Launches a headless web browser to watch videos on swagbucks
-
 ## Usage
 ### Set up chromedriver
 copy chromedriver.exe to C:\Windows if on windows
@@ -24,10 +21,3 @@ pip install -r requirements.txt
 
 ### Run
     python3 main.py
-
-
-### Login Info
-    User:
-    Password: LarryHunterHawks605
-    Email: lw2025Hunter@gmail.com
-    Swag Password: #LaRry602
